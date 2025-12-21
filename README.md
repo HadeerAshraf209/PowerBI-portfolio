@@ -1,2 +1,2 @@
-# PowerBI-portfolio
-Power BI dashboards and analytics projects
+# PowerBI Portfolio
+Power BI dashboards and Analytics Projects
