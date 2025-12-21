@@ -1,5 +1,4 @@
 # Data Professions Survey Analysis Dashboard (Guided Project)
-# Data Professions Survey Analysis Dashboard (Guided Project)
 
 ## Project Overview
 This is a guided Power BI project created by following
