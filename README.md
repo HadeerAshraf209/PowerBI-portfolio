@@ -18,7 +18,22 @@ This project was created by following a guided tutorial by **Alex The Analyst** 
 - Interactive dashboards
 - Survey data analysis
 
-📂 Folder: `Data-Professions-Survey-Analysis`
+📂 Folder: `Alex-The-Analyst-PowerBI-Project`
+
+---
+
+### 📦 Inventory Analysis in Power BI
+**Description:**
+This project presents an end-to-end inventory analysis built in Power BI, based on a real-world business scenario from a guided DataCamp case study.
+
+**Key Topics:**
+- Power BI
+- Power Query (data cleaning & transformation)
+- DAX (business and inventory metrics)
+- Data Modeling
+- Data Visualization & Dashboard Design
+
+📂 Folder: `Datacamp-Inventory-Analysis-in-Power-BI`
 
 ---
 
